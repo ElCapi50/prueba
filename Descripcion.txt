@@ -1,0 +1,27 @@
+##      Contractor      ##
+
+Contractor es una aplicación basada en java que tiene como fin el hacer que estudiantes, gente con tiempo libre, desempleados y toda clase de persona que busque conocimientos y tambien
+complete tareas a cambio de recompensas. Inicialmente se pensaba que las recompensas fueran puntos que se comprarán con dinero. Así mismo se busca la intervención de empresas para
+poder emplear más trabajadores, esto de forma remota u otra forma que la empresa desee. La mécanica de Contractor consiste en el "lanzamiento" de contratos a cambio de puntos. Estos contratos
+pueden ser guardados por otros usuarios para así completarlos. Sin embargo aquel usuario que complete el contrato antes que cualquier otro usuario se quedará con la recompensa. Bien los
+contratos aunque no se pueda cobrar su recompensa pueden servir para los estudiantes como una fuente de actividades nueva, o una fuente de consulta de conocimiento viendo respuestas a los
+contratos propuestos.
+
+Base datos:
+tabla usuarios
+tabla contratos
+tabla contratosTerminados
+
+Interfaz Inicio sesión
+
+Interfaz Usuario
+
+Interfaz Tabla contratos
+
+Interfaz contratosSubidos
+
+Interfaz contratosTerminados
+
+Interfaz contratosGuardados
+
+Interfaz contactos
